@@ -2,3 +2,5 @@
 .vscode
 build
 cmake-build-*
+lio_mapping_examples/Indoor_with_ground_truth/*.bag
+
